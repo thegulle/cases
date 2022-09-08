@@ -1,0 +1,26 @@
+body {
+  color: black;
+
+  .el-main {
+    width: 100%;
+    overflow-x: hidden;
+  }
+}
+
+.form-card {
+  width: 100%;
+
+  .form-container {
+    width: 100%;
+
+    .form-content {
+      width: 100%;
+
+      .el-input,
+      .el-select {
+        width: 100% !important;
+      }
+
+    }
+  }
+}
